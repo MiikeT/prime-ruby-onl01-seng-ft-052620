@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(int)
-  return false if int < 2
+def prime?(num)
+  return false if num < 2
   
   i = 2
   while i < num
